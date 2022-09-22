@@ -109,5 +109,5 @@ end
 
 # game(game_board, original_board)
 
-new_game = TicTacToe.new()
-new_game.game
+testing = TicTacToe.new()
+testing.game
