@@ -102,12 +102,7 @@ class TicTacToe
       check_winning_line(@player2)
     end
   end
-
-
-  ## REMEMBER TO - 1 FROM USER INPUT FOR CORRECT INDEXING
 end
-
-# game(game_board, original_board)
 
 testing = TicTacToe.new()
 testing.game
